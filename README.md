@@ -9,6 +9,24 @@ $ react-native-create-library module-custom
 - delete peerDependencies **react-native-windows**
 - delete **windows** folder
 
+### Step 2
+
+```
+$ react-native init example
+$ cd example
+```
+- modify example/package.json
+```
+"dependencies": {
+    ...
+    "react-native-module-custom": "file:.."
+    ...
+},
+````
+
+```
+$ npm i
+```
 ------------------------------------------
 # react-native-module-custom
 
