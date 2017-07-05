@@ -1,4 +1,12 @@
 
+# Teaching steps
+
+### Step 1
+
+```
+$ react-native-create-library module-custom
+```
+------------------------------------------
 # react-native-module-custom
 
 ## Getting started
@@ -50,4 +58,3 @@ import RNModuleCustom from 'react-native-module-custom';
 // TODO: What to do with the module?
 RNModuleCustom;
 ```
-  
