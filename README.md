@@ -1,7 +1,7 @@
 
 # Teaching steps
 
-### Step 1
+### master
 
 ```
 $ react-native-create-library module-custom
@@ -9,7 +9,7 @@ $ react-native-create-library module-custom
 - delete peerDependencies **react-native-windows**
 - delete **windows** folder
 
-### Step 2
+### Step1
 
 ```
 $ react-native init example
